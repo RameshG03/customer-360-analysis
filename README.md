@@ -4,7 +4,7 @@
 
 This project performs a **Customer 360 Retail Sales Analysis** to understand customer purchasing behavior, product performance, and sales trends using **Python and Power BI**.
 
-The goal of this project is to transform raw retail transaction data into meaningful insights that support **business decision making and sales strategy**.
+The goal of this project is to transform raw retail transaction data into meaningful insights that support **business decision making and sales strategy**. 
 
 The analysis includes:
 
